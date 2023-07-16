@@ -1,4 +1,5 @@
 # Mars Scraping
+![Alt text](Q4UQ2bWADBXqrRy9H3PcTo.jpg)
 This challenge demonstrates the usage of BeautifulSoup and Splinter with Selenium to collect data from websites without an API.
 
 ## Mars News
